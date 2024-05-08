@@ -1,6 +1,6 @@
 const combiningArrays = (fruits,vegetables) => {
-    let newArr = [...fruits, ...vegetables]
-    return newArr
+    let groceries = [...fruits, ...vegetables]
+    return groceries
 }
 
 
