@@ -1,5 +1,4 @@
 //Example Invocation:
-
 const employees = [
   { name: "John Doe", age: 30, department: "HR", salary: 50000 },
   { name: "Jane Smith", age: 28, department: "Finance", salary: 60000 },
@@ -19,4 +18,5 @@ function averageSalary(employees){
     return (sum/allSalary.length)
 }
 
-console.log(averageSalary(employees)); // Output: 60000
+console.log(averageSalary(employees)); 
+// Expected Output: 60000

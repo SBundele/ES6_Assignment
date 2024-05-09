@@ -1,5 +1,4 @@
 //Example Invocation:
-
 const employees = [
   { name: "John Doe", age: 30, department: "HR", salary: 50000 },
   { name: "Jane Smith", age: 28, department: "Finance", salary: 60000 },
@@ -14,4 +13,4 @@ function thirdEmployeeInfo(employees){
 }
 
 console.log(thirdEmployeeInfo(employees)); 
-// Output: "Employee: Alex Johnson, Age: 35, Salary: 70000, Bonus: 7000"
+// Expecetd Output: "Employee: Alex Johnson, Age: 35, Salary: 70000, Bonus: 7000"

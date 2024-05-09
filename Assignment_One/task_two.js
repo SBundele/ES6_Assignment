@@ -1,3 +1,4 @@
+// Example Invocation
 const person = { name: "John", age: 30, address: "123 Main St" };
 
 function cloningObjects(person){
@@ -6,4 +7,4 @@ function cloningObjects(person){
 }
 
 console.log(cloningObjects(person)); 
-// Output: { name: "John", age: 30, address: "123 Main St" }
+// Expected Output: { name: "John", age: 30, address: "123 Main St" }
